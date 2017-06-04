@@ -1,2 +1,2 @@
 # Project-One
-Human activity recognition
+Human activity recognition using smartphones
